@@ -1,7 +1,7 @@
 
 
-# raw-socket 
-
+# raw-socket-conet
+*** fork from [raw-socket](https://github.com/nospaceships/node-raw-socket)
 This module implements raw sockets for [Node.js][nodejs].
 
 *This module has been created primarily to facilitate implementation of the
